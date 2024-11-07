@@ -1,0 +1,18 @@
+.phone-signin {
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}
+.phone-content {
+  text-align: center;
+}
+.phone-content .btn1 {
+  background-color: blue;
+  color: white;
+  padding: 5px 5px;
+  border-radius: 10%;
+  margin-top: 10px;
+}
+.phone-content #input1 {
+  width: 300px;
+}
